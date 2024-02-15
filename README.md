@@ -22,7 +22,7 @@ Leaflet: A JavaScript library for interactive maps, used to display the map and 
 jQuery: A fast, small, and feature-rich JavaScript library, used to make AJAX requests to fetch earthquake data from the USGS API.
 
 ### How to Use:
-Access on the webpage link: https://pmadata.github.io/leaflet-challenge/
+Access on the webpage link: [https://pmadata.github.io/leaflet-challenge/](https://pmadata.github.io/leaflet-challenge/)
 
 Ensure you have an internet connection to fetch earthquake data from the USGS API.
 Open the index.html file in a web browser.
