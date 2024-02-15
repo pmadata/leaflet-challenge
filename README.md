@@ -19,7 +19,7 @@ Clicking on a marker displays a popup with additional information about the eart
 ### Technologies Used:
 
 Leaflet: A JavaScript library for interactive maps, used to display the map and plot earthquake markers.
-jQuery: A fast, small, and feature-rich JavaScript library, used to make AJAX requests to fetch earthquake data from the USGS API.
+jQuery: fetching earthquake data from the USGS API. - Past 30 Days Significant Earthquakes
 
 ### How to Use:
 Access on the webpage link: [https://pmadata.github.io/leaflet-challenge/](https://pmadata.github.io/leaflet-challenge/)
