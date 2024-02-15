@@ -2,7 +2,7 @@
 
 ## Earthquake Map Visualization
 
-This project provides a visualization of significant earthquake data using Leaflet, a JavaScript library for interactive maps. It fetches earthquake data from the USGS (United States Geological Survey) Significant Earthquakes feed and plots the earthquakes on the map based on their magnitude and depth.
+This project provides a visualization of significant earthquake data using Leaflet, a JavaScript library for interactive maps. It fetches earthquake data from the USGS (United States Geological Survey) Significant Earthquakes in the past 30 days feed and plots the earthquakes on the map based on their magnitude and depth.
 
 ### Features:
 
